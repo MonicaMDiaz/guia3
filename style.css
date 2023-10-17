@@ -1,0 +1,73 @@
+header{
+    background-color: blue;
+    border: 5px chartreuse solid;
+    width: 770px; 
+    height: 200px; 
+    margin: 5px;
+    border-radius: 10px;
+}
+
+main{
+    width: 780px; 
+    height: 400px;
+    background-color: blueviolet;
+}
+
+nav{
+    background-color: rgb(101, 176, 233);
+    width: 150px; 
+    height: 300px; 
+    float: left; 
+    margin: 5px;
+    border-radius: 10px;
+}
+
+section{
+    background-color: red;
+    width: 450px; 
+    height: 300px; 
+    float: left; 
+    margin: 5px;
+    border-radius: 10px;
+}
+
+#primero{
+    background-color: rgb(193, 127, 228);
+    width: 440px; 
+    height: 90px; 
+    float: left; 
+    margin: 5px;
+}
+
+#segundo{
+    background-color: rgb(133, 61, 171);
+    width: 440px; 
+    height: 90px; 
+    float: left; 
+    margin: 5px;
+}
+
+#tercero{
+    background-color: purple;
+    width: 440px; 
+    height: 90px; 
+    float: left; 
+    margin: 5px;
+}
+
+aside{
+    background-color:rgb(101, 176, 233);
+    width: 150px; 
+    height: 300px; 
+    float: left; 
+    margin: 5px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: rgb(86, 196, 86);
+    width: 770px;  
+    height: 50px; 
+    margin: 5px;
+    border-radius: 10px;
+}
